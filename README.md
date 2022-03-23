@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Shashu-rg
 - 👀 I’m interested in developing software.
-- 🌱 I’m currently learning android application development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on Web application development.
 - 📫 How to reach me: Email:shaswathnarayanrpai@gmail.com
+- I have created an app using React which is avaiable to use publically at https://shashu-rgb.github.io/RoboFriends/
 
 <!---
 Shashu-rgb/Shashu-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
